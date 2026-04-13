@@ -1,0 +1,14 @@
+# For the RAG pipeline
+ollama
+faiss-cpu
+sentence-transformers
+pymupdf
+
+# For the Web App
+streamlit
+
+# For RAGAs Evaluation
+ragas
+datasets
+langchain-ollama
+langchain-huggingface

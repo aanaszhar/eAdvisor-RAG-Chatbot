@@ -1,0 +1,122 @@
+[
+  {
+    "question": "What is the maximum candidacy period for a full-time PhD student?",
+    "answer": "96 months."
+  },
+  {
+    "question": "What is the maximum candidacy period for a part-time PhD student?",
+    "answer": "120 months."
+  },
+  {
+    "question": "What is the maximum candidacy period for a full-time Master by Research student?",
+    "answer": "48 months."
+  },
+  {
+    "question": "What is the maximum candidacy period for a part-time Master by Research student?",
+    "answer": "72 months."
+  },
+  {
+    "question": "What is the maximum candidacy period for a Master by Coursework student?",
+    "answer": "36 months."
+  },
+  {
+    "question": "What is the 'Graduate On Time' (GOT) period for a full-time PhD?",
+    "answer": "42 months."
+  },
+  {
+    "question": "What is the 'Graduate On Time' (GOT) period for a full-time Master by Research?",
+    "answer": "24 months."
+  },
+  {
+    "question": "Is a deferred semester (without medical reason) counted as part of the candidacy period?",
+    "answer": "Yes, Deferment without medical reason will be considered as part of the period of study."
+  },
+  {
+    "question": "Is a deferred semester (with medical reason) counted as part of the candidacy period?",
+    "answer": "No, Deferment with medical reason will not be considered as part of the period of study."
+  },
+  {
+    "question": "What is the publication requirement for a PhD student to graduate?",
+    "answer": "One (1) article accepted/published in Q1/Q2 journal indexed by Web of Science (WoS) OR; Two (2) articles accepted/published in journals indexed by (WoS)/ERA or Scopus."
+  },
+  {
+    "question": "What is the publication requirement for a Master by Research student to graduate?",
+    "answer": "One (1) article accepted in journals indexed by Scopus or Web of Science (WoS)."
+  },
+  {
+    "question": "What is the minimum CGPA required for a Master by Coursework student to graduate?",
+    "answer": "Obtain CGPA 3.00 and above."
+  },
+  {
+    "question": "What is the minimum passing grade for the dissertation/project for a Master by Coursework?",
+    "answer": "Pass with minimum of B grade for the dissertation/industrial-based project/Capstone Project."
+  },
+  {
+    "question": "When is a Master by Coursework student placed on 'Academic Probation'?",
+    "answer": "Obtained a GPA or CGPA of 2.99 and below for any semester."
+  },
+  {
+    "question": "When is a Master by Research student placed on 'Academic Probation'?",
+    "answer": "Failed Research Methodology, Failed Research Proposal Defense (RPD), or Obtained Research Progress/APC marks 64.9% and below any semester."
+  },
+  {
+    "question": "What is one condition for 'Academic Dismissal' for a Master by Coursework student?",
+    "answer": "Obtained GPA or CGPA 2.99 and below in two (2) consecutive semesters."
+  },
+  {
+    "question": "What is one condition for 'Academic Dismissal' for a PhD/Master by Research student?",
+    "answer": "Placed under Academic Probation for two (2) consecutive semesters."
+  },
+  {
+    "question": "When must a full-time PhD candidate complete their first Research Proposal Defence (RPD)?",
+    "answer": "All PhD candidates are required to successfully complete their first RPD within eight (8) months from the date of registration."
+  },
+  {
+    "question": "When must a full-time Master by Research candidate complete their first RPD?",
+    "answer": "All master's candidates are required to successfully complete their first RPD within the first semester of registration or eight (8) months from the date of registration."
+  },
+  {
+    "question": "Is the Research Completion Seminar (RCS) required for Master by Research students?",
+    "answer": "No, it is for PhD only."
+  },
+  {
+    "question": "What is the maximum similarity percentage allowed for a thesis submission?",
+    "answer": "The similarity percentage allowed is not more than 25%."
+  },
+  {
+    "question": "What is the maximum word count for a PhD thesis?",
+    "answer": "A PhD thesis must not exceed 100,000 words."
+  },
+  {
+    "question": "What is the maximum word count for a Master thesis (by research)?",
+    "answer": "A Master thesis must not exceed 50,000 words."
+  },
+  {
+    "question": "What does 'Viva Voce Category 1' mean?",
+    "answer": "Student to submit the final thesis within 1 month."
+  },
+  {
+    "question": "What does 'Viva Voce Category 3' mean?",
+    "answer": "Student is given minimum 3 months and up to 6 months to submit the final thesis."
+  },
+  {
+    "question": "What does 'Viva Voce Category 5' mean?",
+    "answer": "Dismiss."
+  },
+  {
+    "question": "Can a Master's candidate apply to be upgraded to a PhD?",
+    "answer": "Yes, a Master's candidate may apply for an upgrade to PhD within their first year of candidature."
+  },
+  {
+    "question": "What is one eligibility requirement to upgrade from Master to PhD?",
+    "answer": "Obtained a minimum CGPA of 3.30 in bachelor's degree."
+  },
+  {
+    "question": "What is the minimum attendance requirement for a Master by Coursework student?",
+    "answer": "The minimum attendance requirement is eighty percent (80%) for each course."
+  },
+  {
+    "question": "What is the minimum attendance requirement for a full-time research student?",
+    "answer": "The minimum attendance requirement is eighty percent (80%) for each programme."
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "question": "How many credit hours are required to graduate with a Bachelor of Chemical Engineering?",
+    "answer": "Students are required to obtain a minimum of 144 credit hours and a minimum CGPA of 2.00."
+  },
+  {
+    "question": "List the Core Specialisation areas for Chemical Engineering.",
+    "answer": "Environment and Sustainable Engineering, Process System Engineering, Processing Industry, Process Plant Safety, Integrated Programme Leading to MSc in Process Safety, and Renewable Energy."
+  },
+  {
+    "question": "What is the pre-requisite for Separation Process I (CFB2013)?",
+    "answer": "Principles of Chemical Engineering."
+  },
+  {
+    "question": "What is the pre-requisite for Chemical Engineering Thermodynamics II (CFB2023)?",
+    "answer": "Chemical Engineering Thermodynamics I."
+  },
+  {
+    "question": "What is the pre-requisite for Plant Design Project II (CFB4073)?",
+    "answer": "Plant Design Project I."
+  },
+  {
+    "question": "How many credit hours are required to graduate with a Bachelor of Civil Engineering?",
+    "answer": "Students are required to obtain a minimum of 144 credit hours and a minimum CGPA of 2.00."
+  },
+  {
+    "question": "List the Core Specialisation areas for Civil Engineering.",
+    "answer": "Offshore Engineering, Environmental Engineering, Sustainability, and Renewable Energy."
+  },
+  {
+    "question": "What is the pre-requisite for Mechanics of Solids (VFB1033)?",
+    "answer": "Engineering Mechanics."
+  },
+  {
+    "question": "What is the pre-requisite for Structural Analysis (VFB2033)?",
+    "answer": "Theory of Structures."
+  },
+  {
+    "question": "What is the pre-requisite for Hydraulics (VFB2043)?",
+    "answer": "Civil Engineering Fluid Mechanics."
+  },
+  {
+    "question": "How many credit hours are required to graduate with a Bachelor of Computer Engineering?",
+    "answer": "Students are required to obtain a minimum of 144 credit hours and a minimum CGPA of 2.00."
+  },
+  {
+    "question": "List the Core Specialisation areas for Computer Engineering.",
+    "answer": "Intelligent Vision System, Next Generation Communication System, Intelligent Robotics, and Renewable Energy."
+  },
+  {
+    "question": "What is the pre-requisite for Object Oriented Programming (TFB1033) in the Computer Engineering programme?",
+    "answer": "Structured Programming and Interfacing."
+  },
+  {
+    "question": "What is the pre-requisite for Embedded and IOT Systems (RBB3023)?",
+    "answer": "Microprocessor and Computer Architecture."
+  },
+  {
+    "question": "What is the pre-requisite for Distributed and Parallel Processing (RBB4603)?",
+    "answer": "Microprocessor and Computer Architecture."
+  },
+  {
+    "question": "How many credit hours are required to graduate with a Bachelor of Electrical and Electronic Engineering?",
+    "answer": "Students are required to obtain a minimum of 144 credit hours and a minimum CGPA of 2.00."
+  },
+  {
+    "question": "List the Core Specialisation areas for Electrical and Electronic Engineering.",
+    "answer": "Computer and Communication, Instrumentation and Control, Power Systems Engineering, Electronic & Devices, and Renewable Energy."
+  },
+  {
+    "question": "What is the pre-requisite for Analogue Electronic (EFB2013)?",
+    "answer": "Microelectronic Physics & Devices."
+  },
+  {
+    "question": "What is the pre-requisite for Power Systems (EFB3013)?",
+    "answer": "Electrical Machines."
+  },
+  {
+    "question": "What is the pre-requisite for Digital Signal Processing (EFB4023)?",
+    "answer": "Signal and Systems."
+  },
+  {
+    "question": "How many credit hours are required to graduate with a Bachelor of Mechanical Engineering?",
+    "answer": "Students are required to obtain a minimum of 144 credit hours and a minimum CGPA of 2.00."
+  },
+  {
+    "question": "List the Core Specialisation areas for Mechanical Engineering.",
+    "answer": "Energy Systems, Advanced Manufacturing, Asset Integrity and Reliability, Robotics and System Automation, and Renewable Energy."
+  },
+  {
+    "question": "How many credit hours are required to graduate with a Bachelor of Petroleum Engineering?",
+    "answer": "Students are required to obtain a minimum of 144 credit hours and a minimum CGPA of 2.00."
+  },
+  {
+    "question": "List the Core Specialisation areas for Petroleum Engineering.",
+    "answer": "Reservoir Engineering, Drilling Engineering, Production Engineering, and Renewable Energy."
+  },
+  {
+    "question": "How many credit hours are required to graduate with a Bachelor in Business Management?",
+    "answer": "Students are required to obtain a minimum of 122 credit hours and a minimum CGPA of 2.00."
+  },
+  {
+    "question": "How many credit hours are required to graduate with a Bachelor of Computer Science?",
+    "answer": "Students are required to obtain a minimum of 123 credit hours and a minimum CGPA of 2.00."
+  },
+  {
+    "question": "List the Core Specialisation areas for Computer Science.",
+    "answer": "Data Analytics, Cyber Security, Enterprise Systems, and Software Quality."
+  },
+  {
+    "question": "How many credit hours are required to graduate with a Bachelor of Information Systems?",
+    "answer": "Students are required to obtain a minimum of 122 credit hours and a minimum CGPA of 2.00."
+  },
+  {
+    "question": "List the Core Specialisation areas for Information Systems.",
+    "answer": "Big Data Analytics, Digital Technology, FINTECH, and Software Quality."
+  },
+  {
+    "question": "How many credit hours are required to graduate with a Bachelor of Science (Hons) in Applied Chemistry?",
+    "answer": "Students are required to obtain a minimum of 127 credit hours and a minimum CGPA of 2.00."
+  }
+]

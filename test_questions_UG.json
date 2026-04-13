@@ -1,0 +1,126 @@
+[
+  {
+    "question": "What is the minimum attendance requirement for undergraduate courses?",
+    "answer": "The minimum attendance requirement is ninety percent (90%) for each course after the add/drop period."
+  },
+  {
+    "question": "What happens if an undergraduate student fails to meet the 90% attendance requirement?",
+    "answer": "A student who fails to fulfill this requirement without providing the approved supporting document may be barred from sitting the final examination."
+  },
+  {
+    "question": "When are undergraduate students allowed to add or drop courses?",
+    "answer": "Students are allowed to add/drop courses within the first two (2) weeks of the semester."
+  },
+  {
+    "question": "When is the latest an undergraduate student can withdraw from a course?",
+    "answer": "Students are allowed to withdraw from the courses latest by week six (6) of the semester."
+  },
+  {
+    "question": "What is the maximum duration of study for an Engineering Degree Programme?",
+    "answer": "All Bachelor of Engineering students are required to complete their studies within seven (7) years."
+  },
+  {
+    "question": "What is the maximum duration of study for a Technology Degree Programme (e.g., Computer Science)?",
+    "answer": "All Bachelor of Information Systems (Hons), Bachelor of Information Geology (Hons), and Bachelor of Computer Science (Hons) students are required to complete their studies within five and a half (5 1/2) years."
+  },
+  {
+    "question": "List the Core Specialisation areas for Civil Engineering.",
+    "answer": "Offshore Engineering, Environmental Engineering, Sustainability, and Renewable Energy."
+  },
+  {
+    "question": "What is the pre-requisite for Mechanics of Solids (VFB1033)?",
+    "answer": "Engineering Mechanics."
+  },
+  {
+    "question": "What is the pre-requisite for Structural Analysis (VFB2033)?",
+    "answer": "Theory of Structures."
+  },
+  {
+    "question": "What is the pre-requisite for Hydraulics (VFB2043)?",
+    "answer": "Civil Engineering Fluid Mechanics."
+  },
+  {
+    "question": "How many credit hours are required to graduate with a Bachelor of Computer Engineering?",
+    "answer": "Students are required to obtain a minimum of 144 credit hours and a minimum CGPA of 2.00."
+  },
+  {
+    "question": "What CGPA range is required for a Second Class Lower Honours degree?",
+    "answer": "2.50 to 2.99."
+  },
+  {
+    "question": "What CGPA range is required for a Third Class Honours degree?",
+    "answer": "2.00 to 2.49."
+  },
+  {
+    "question": "What are the conditions for an undergraduate to get on the Dean's List?",
+    "answer": "Must PASS all courses registered, must at least register a minimum of ten (10) credit hours, and must obtain a Grade Point Average (GPA) of 3.50 and above."
+  },
+  {
+    "question": "What CGPA range puts an undergraduate student on 'Academic Probation'?",
+    "answer": "A student may be put on academic probation if he/she obtains a GPA or CGPA of 1.50 to 1.99 for any semester."
+  },
+  {
+    "question": "What CGPA range puts an undergraduate student on 'Academic Probation and Warning'?",
+    "answer": "A student may be put on academic probation and warning if he/she obtains a GPA or CGPA of 1.00 to 1.49 for any semester or is under Academic Probation status for 2 consecutive semesters."
+  },
+  {
+    "question": "List the Core Specialisation areas for Electrical and Electronic Engineering.",
+    "answer": "Computer and Communication, Instrumentation and Control, Power Systems Engineering, Electronic & Devices, and Renewable Energy."
+  },
+  {
+    "question": "What is the pre-requisite for Analogue Electronic (EFB2013)?",
+    "answer": "Microelectronic Physics & Devices."
+  },
+  {
+    "question": "What is the pre-requisite for Power Systems (EFB3013)?",
+    "answer": "Electrical Machines."
+  },
+  {
+    "question": "What is the pre-requisite for Digital Signal Processing (EFB4023)?",
+    "answer": "Signal and Systems."
+  },
+  {
+    "question": "How many credit hours are required to graduate with a Bachelor of Mechanical Engineering?",
+    "answer": "Students are required to obtain a minimum of 144 credit hours and a minimum CGPA of 2.00."
+  },
+  {
+    "question": "What is the 'AU' symbol in an academic transcript?",
+    "answer": "Audit course(s)."
+  },
+  {
+    "question": "What is the 'W' symbol in an academic transcript?",
+    "answer": "Withdrawal from course(s)."
+  },
+  {
+    "question": "What is the 'SP' symbol in an academic transcript?",
+    "answer": "Supplementary Pass."
+  },
+  {
+    "question": "Can an undergraduate student redeem (repeat) a course with a 'C' grade?",
+    "answer": "The university has adopted the course redemption (grade replacement) policy for course/s with 'C' grade and below... for ONE (1) time replacement only per course."
+  },
+  {
+    "question": "If a student redeems a course, which grade is counted in the CGPA?",
+    "answer": "Only the BEST grade will be counted in the total credit hours and cumulative grade point average (CGPA) calculation."
+  },
+  {
+    "question": "How many credit hours are required to graduate with a Bachelor of Computer Science?",
+    "answer": "Students are required to obtain a minimum of 123 credit hours and a minimum CGPA of 2.00."
+  },
+  {
+    "question": "List the Core Specialisation areas for Computer Science.",
+    "answer": "Data Analytics, Cyber Security, Enterprise Systems, and Software Quality."
+  },
+  {
+    "question": "How many credit hours are required to graduate with a Bachelor of Information Systems?",
+    "answer": "Students are required to obtain a minimum of 122 credit hours and a minimum CGPA of 2.00."
+  },
+  {
+    "question": "List the Core Specialisation areas for Information Systems.",
+    "answer": "Big Data Analytics, Digital Technology, FINTECH, and Software Quality."
+  },
+  {
+    "question": "How many credit hours are required to graduate with a Bachelor of Science (Hons) in Applied Chemistry?",
+    "answer": "Students are required to obtain a minimum of 127 credit hours and a minimum CGPA of 2.00."
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "question": "What is the vision of UTP?",
+    "answer": "A Leader in Technology Education and Centre for Creativity and Innovation."
+  },
+  {
+    "question": "What is the minimum attendance requirement for a course?",
+    "answer": "The minimum attendance requirement is ninety percent (90%) for each course after add/drop period."
+  },
+  {
+    "question": "What happens if I fail to meet the 90% attendance requirement?",
+    "answer": "A student who fails to fulfill this requirement without providing approved supporting document may be barred from sitting for the final examination."
+  },
+  {
+    "question": "When are students allowed to add or drop courses?",
+    "answer": "Students are allowed to add/drop courses within the first two (2) weeks of the semester."
+  },
+  {
+    "question": "What is the maximum period of study for the foundation programme?",
+    "answer": "The maximum period of study is six (6) semesters (2 years)."
+  },
+  {
+    "question": "What are the requirements for the Dean's List?",
+    "answer": "Students will be awarded the Dean's List Certificate if they: PASS all courses registered, register a minimum of ten (10) credit hours, and obtain a Grade Point Average (GPA) of 3.50 and above."
+  },
+  {
+    "question": "What is the maximum grade I can get from a supplementary examination?",
+    "answer": "The maximum new grade that he or she will obtain is 'C'."
+  },
+  {
+    "question": "What CGPA range puts a student on Academic Probation?",
+    "answer": "A student may be put on academic probation if he/she obtains a GPA or CGPA of 1.50 to 1.99 for any semester."
+  },
+  {
+    "question": "How many credit hours can a student on Academic Probation register for?",
+    "answer": "The student will only be allowed to register for a minimum of nine (9) credit hours and a maximum of eleven (11) credit hours."
+  },
+  {
+    "question": "What is one condition for academic dismissal?",
+    "answer": "A student will be dismissed if they obtain both GPA and/or CGPA of less than 1.00."
+  },
+  {
+    "question": "What is the minimum CGPA to complete the foundation programme?",
+    "answer": "A student must PASS all the required courses, complete a minimum of 50 credits and obtain a minimum CGPA of 2.00."
+  },
+  {
+    "question": "What courses are taken in Trimester 1 of the Engineering & Science Stream?",
+    "answer": "Trimester 1 courses are Chemistry I (FCC 0015), Mathematics I (FCM 0015), Physics I (FCP 0015), and Proficiency English (FCL 0013)."
+  },
+  {
+    "question": "What courses are in Trimester 1 of the Business Management & Computing Stream?",
+    "answer": "Trimester 1 courses are Business Management (FCB 0015), * Fundamental Mathematics I/ ** Mathematics I (FCM 0025/ FCM 0015), Principles of Economics (FCB 0035), and Proficiency English (FCL 0013)."
+  },
+  {
+    "question": "What is the pre-requisite for Chemistry II (FCC 0025)?",
+    "answer": "Chemistry I"
+  },
+  {
+    "question": "What is the pre-requisite for Physics II (FCP 0025)?",
+    "answer": "Physics I"
+  },
+  {
+    "question": "What is the pre-requisite for Visual Programming (FCT 0025)?",
+    "answer": "None"
+  },
+  {
+    "question": "What does the Structured Algorithm and Programming (FCT 0015) course cover?",
+    "answer": "The course will cover: The basic concepts of computers problem solving using computers and basic technique in designing solution; and fundamental concepts of programming that includes writing working computer programmes. (Engineering & Sciences Stream.)"
+  },
+  {
+    "question": "Are co-curriculum grades included in the CGPA?",
+    "answer": "The grading WILL BE INCLUDED in the CGPA."
+  },
+  {
+    "question": "How many co-curriculum credit hours are required for the foundation programme?",
+    "answer": "The total credit hours required is two (2)."
+  },
+  {
+    "question": "What is the attendance requirement for co-curriculum courses?",
+    "answer": "Every student will have to fulfil the required 80% of attendance in accordance with the academic rules and regulations."
+  }
+]

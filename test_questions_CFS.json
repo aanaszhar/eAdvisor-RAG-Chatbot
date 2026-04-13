@@ -1,0 +1,122 @@
+[
+  {
+    "question": "What is the vision of UTP?",
+    "answer": "A Leader in Technology Education and Centre for Creativity and Innovation."
+  },
+  {
+    "question": "What is the minimum attendance requirement for a course in the Foundation Programme?",
+    "answer": "The minimum attendance requirement is ninety percent (90%) for each course after add/drop period."
+  },
+  {
+    "question": "What happens if a Foundation student fails to meet the 90% attendance requirement?",
+    "answer": "A student who fails to fulfill this requirement without providing approved supporting document may be barred from sitting for the final examination."
+  },
+  {
+    "question": "When are Foundation students allowed to add or drop courses?",
+    "answer": "Students are allowed to add/drop courses within the first two (2) weeks of the semester."
+  },
+  {
+    "question": "When is the latest a Foundation student can withdraw from a course?",
+    "answer": "Students are allowed to withdraw from the courses latest by week eight (8) of the semester."
+  },
+  {
+    "question": "What is the maximum period of study for the Foundation Programme?",
+    "answer": "The maximum period of study is six (6) semesters (2 years)."
+  },
+  {
+    "question": "What are the requirements for the Dean's List for Foundation students?",
+    "answer": "Students will be awarded the Dean's List Certificate if they: PASS all courses registered, register a minimum of ten (10) credit hours, and obtain a Grade Point Average (GPA) of 3.50 and above."
+  },
+  {
+    "question": "What is the minimum CGPA to complete the Foundation Programme?",
+    "answer": "A student must PASS all the required courses, complete a minimum of 50 credits and obtain a minimum CGPA of 2.00."
+  },
+  {
+    "question": "What CGPA range puts a Foundation student on Academic Probation?",
+    "answer": "A student may be put on academic probation if he/she obtains a GPA or CGPA of 1.50 to 1.99 for any semester."
+  },
+  {
+    "question": "What CGPA range puts a Foundation student on Academic Probation and Warning?",
+    "answer": "A student may be put on academic probation and warning if he/she obtains a GPA or CGPA of 1.00 to 1.49 for any semester or is under Academic Probation status for 2 consecutive semesters."
+  },
+  {
+    "question": "What is one condition for academic dismissal for a Foundation student?",
+    "answer": "A student will be dismissed if they obtain both GPA and/or CGPA of less than 1.00."
+  },
+  {
+    "question": "What is the maximum grade a Foundation student can get from a supplementary examination?",
+    "answer": "The maximum new grade that he or she will obtain is 'C'."
+  },
+  {
+    "question": "What courses are taken in Trimester 1 of the Foundation Engineering & Science Stream?",
+    "answer": "Chemistry I (FCC 0015), Mathematics I (FCM 0015), Physics I (FCP 0015), and Proficiency English (FCL 0013)."
+  },
+  {
+    "question": "What courses are in Trimester 1 of the Foundation Business Management & Computing Stream?",
+    "answer": "Business Management (FCB 0015), Fundamental Mathematics I / Mathematics I (FCM 0025/ FCM 0015), Principles of Economics (FCB 0035), and Proficiency English (FCL 0013)."
+  },
+  {
+    "question": "What is the pre-requisite for Chemistry II (FCC 0025)?",
+    "answer": "Chemistry I"
+  },
+  {
+    "question": "What is the pre-requisite for Physics II (FCP 0025)?",
+    "answer": "Physics I"
+  },
+  {
+    "question": "How many credit hours of co-curriculum are required for the Foundation Programme?",
+    "answer": "The total credit hours required is two (2)."
+  },
+  {
+    "question": "What is the attendance requirement for co-curriculum courses?",
+    "answer": "Every student will have to fulfil the required 80% of attendance in accordance with the academic rules and regulations."
+  },
+  {
+    "question": "Are co-curriculum grades included in the CGPA for Foundation students?",
+    "answer": "The grading WILL BE INCLUDED in the CGPA."
+  },
+  {
+    "question": "What does 'QF' grade mean?",
+    "answer": "Qualified Fail (not obtaining 20% in final examination)."
+  },
+  {
+    "question": "What is the minimum score required in the final examination to pass a course?",
+    "answer": "In order to pass the course, the student must obtain a minimum score of 20% in the final examination."
+  },
+  {
+    "question": "How long is the maximum period for deferment of studies with a medical certificate?",
+    "answer": "Deferment of studies may be given for a minimum of one (1) semester and maximum of two (2) semester within the candidacy period."
+  },
+  {
+    "question": "Is a deferred semester (with medical certificate) considered part of the study period?",
+    "answer": "All successful applicants for deferment are exempted from paying the necessary fees and the deferred semester is not considered as part of the study period."
+  },
+  {
+    "question": "Is a deferred semester (without medical certificate) considered part of the study period?",
+    "answer": "The deferred semester will be considered as part of the study period."
+  },
+  {
+    "question": "What is the course code for Thinking Skills?",
+    "answer": "FCH 0033."
+  },
+  {
+    "question": "What is the course code for Proficiency English?",
+    "answer": "FCL 0013."
+  },
+  {
+    "question": "What is the course code for Visual Programming in the Foundation programme?",
+    "answer": "FCT 0025."
+  },
+  {
+    "question": "What is the pre-requisite for Mathematics II (FCM 0035)?",
+    "answer": "Mathematics I."
+  },
+  {
+    "question": "What does the 'I' grade mean in an academic transcript?",
+    "answer": "Incomplete."
+  },
+  {
+    "question": "What is the pre-requisite for Introduction to Business and Information Systems (FCB 0025)?",
+    "answer": "Business Management."
+  }
+]
