@@ -1,14 +1,17 @@
-# For the RAG pipeline
+# Core RAG & LLM
 ollama
 faiss-cpu
 sentence-transformers
 pymupdf
+numpy
+langchain-text-splitters
 
-# For the Web App
+# Web Interface
 streamlit
 
-# For RAGAs Evaluation
+# Evaluation Stack
 ragas
 datasets
+pandas
 langchain-ollama
 langchain-huggingface
